@@ -23,9 +23,8 @@ The system helps decision-makers optimize inventory, marketing, logistics, and r
 
 # 📸 Dashboard Preview
 
-## Executive Dashboard
-
-![Executive Dashboard](charts/dashboard.png)
+### 🚀 Live Dashboard
+https://sales-forecasting-demand-intelligence-system.streamlit.app/
 
 ---
 
