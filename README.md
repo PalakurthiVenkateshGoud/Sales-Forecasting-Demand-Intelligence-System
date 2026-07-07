@@ -23,8 +23,9 @@ The system helps decision-makers optimize inventory, marketing, logistics, and r
 
 # 📸 Dashboard Preview
 
-### 🚀 Live Dashboard
-https://sales-forecasting-demand-intelligence-system.streamlit.app/
+## 🌐 Live Dashboard
+
+[Launch Dashboard](https://sales-forecasting-demand-intelligence-system.streamlit.app/)
 
 ---
 
@@ -381,13 +382,13 @@ Interactive Dashboard
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Palakurthi Venkatesh Goud**
 
-GitHub: https://github.com/PalakurthiVenkateshGoud
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/PalakurthiVenkateshGoud)
 
-LinkedIn: www.linkedin.com/in/venkatesh-goud-palakurthi-b16423266
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatesh-goud-palakurthi-b16423266/)
 
 ---
 
