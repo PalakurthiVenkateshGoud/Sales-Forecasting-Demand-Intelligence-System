@@ -25,7 +25,7 @@ The system helps decision-makers optimize inventory, marketing, logistics, and r
 
 ## Executive Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](https://sales-forecasting-demand-intelligence-system.streamlit.app/)
 
 ---
 
@@ -388,7 +388,7 @@ Interactive Dashboard
 
 GitHub: https://github.com/PalakurthiVenkateshGoud
 
-LinkedIn: *(Add your LinkedIn profile URL here)*
+LinkedIn: www.linkedin.com/in/venkatesh-goud-palakurthi-b16423266
 
 ---
 
