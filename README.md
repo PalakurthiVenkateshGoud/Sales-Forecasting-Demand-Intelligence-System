@@ -115,32 +115,25 @@ Automatically generates business recommendations such as:
 
 ---
 
-# 🏗 Project Structure
+## 🏗️ Project Structure
 
 ```text
-END-TO-END_SALES_FORECASTING_DEMAND_INTELLIGENCE
+SalesForecasting_PalakurthiVenkateshGoud
 │
 ├── .streamlit/
-│
-├── assets/
-│
+├── charts/
+│   ├── chart_1.png
+│   ├── ...
+│   └── chart_15.png
 ├── data/
 │   ├── train.csv
 │   └── sample_superstore.csv
-│
-├── models/
-│
-├── notebooks/
-│   └── analysis.ipynb
-│
 ├── reports/
-│   ├── Executive_Report.pdf
-│   └── Business_Insights.md
-│
+├── .gitignore
+├── analysis.ipynb
 ├── app.py
 ├── README.md
-├── requirements.txt
-└── .gitignore
+└── requirements.txt
 ```
 
 ---
